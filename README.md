@@ -83,7 +83,7 @@ User Agent: Thunder Client (https://www.thunderclient.com)
 
 1. Install XAMPP.
 2. Start Apache and MySQL.
-3. Import the database into phpMyAdmin.
+3. Import the database into SQLyog.
 4. Place the project inside the `htdocs` folder.
 5. Install project dependencies using Composer.
 6. Open the project in your browser.
