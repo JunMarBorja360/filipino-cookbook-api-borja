@@ -521,7 +521,7 @@ INSERT INTO food_ingredients (food_id, ingredient_id) VALUES
 
 
 
-##12. (Optional: I added HTML, JPG, CS, & JS)
+## 12. Optional: I added HTML, JPG, CS, & JS (Sorry...)
 
 
 
