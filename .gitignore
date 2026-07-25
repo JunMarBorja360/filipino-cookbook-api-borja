@@ -1,0 +1,14 @@
+# Dependencies (restored through "composer install")
+/vendor/
+
+# Local secrets - never commit the real credentials / tokens
+api/config.php
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
