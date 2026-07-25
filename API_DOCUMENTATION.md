@@ -234,7 +234,7 @@ All GET and POST endpoints returned successful JSON responses after authenticati
 
 
 
-## 11. SQL Used (Keep in mind... For SQLyog, requires the XAMPP and Activate both Apache and MySQL)
+## 11. SQL Used (Keep in mind... For SQLyog, requires the XAMPP and Activate both Apache and MySQL) and Don't worry there is a db folder that contains the sql, same as these.
 
 
 -- Filipino Foods Relational SQL Script
