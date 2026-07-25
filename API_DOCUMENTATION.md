@@ -523,6 +523,7 @@ INSERT INTO food_ingredients (food_id, ingredient_id) VALUES
 
 ## 12. Optional: I added HTML, JPG, CS, & JS (Sorry...)
 
+Just see the screenshots as well as the HTML URL of it.
 
 
 
