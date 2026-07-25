@@ -118,3 +118,9 @@ This project was developed for educational purposes as part of the GitHub and RE
 
 
 ## Added HTML, JPG, CS, & JS
+
+You may see at the Screenshots of one of my folders...
+
+## For more information, check the API_DOCUMENTATION.md 
+
+If you want to test it...
