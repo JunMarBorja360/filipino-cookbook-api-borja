@@ -13,11 +13,13 @@ $app->setBasePath('/filipino-cookbook-api/public');
 // Enable JSON responses
 $app->addBodyParsingMiddleware();
 
+$config = require __DIR__ . '/../config.php';
+
 // Database Connection
-$host = "localhost";
-$dbname = "filipino_cookbook_api";
-$user = "root";
-$pass = "";
+$host = $config['db_host'];
+$dbname = $config['db_name'];
+$user = $config['db_user'];
+$pass = $config['db_pass'];
 
 try {
     $pdo = new PDO(
@@ -36,7 +38,7 @@ try {
 }
 
 // API Token
-$validToken = "dmmmsu-cookbook-token-2026";
+$validToken = $config['api_token'];
 
 // Function to validate Bearer Token
 function checkToken($request, $validToken)
