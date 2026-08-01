@@ -73,7 +73,7 @@ http://localhost/filipino-cookbook-api/public/
 This API requires a Bearer Token.
 
 
-Authorization: Bearer dmmmsu-cookbook-token-2026
+Authorization: Bearer <YOUR_API_TOKEN>
 
 User Agent: Thunder Client (https://www.thunderclient.com)
 
