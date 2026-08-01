@@ -105,6 +105,26 @@ Required Header:
 Authorization: Bearer dmmmsu-cookbook-token-2026
 
 
+## Configuration
+
+Create a `config.php` file in the project root and define the following:
+
+- DB_HOST
+- DB_NAME
+- DB_USER
+- DB_PASS
+- API_TOKEN
+
+Example:
+
+```php
+define('DB_HOST', 'localhost');
+define('DB_NAME', 'filipino_cookbook');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+define('API_TOKEN', 'your_api_token');
+```
+
 
 ## Author
 

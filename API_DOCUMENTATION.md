@@ -82,7 +82,7 @@ http://localhost/filipino-cookbook-api/public
 
 Authorization Header
 
-Bearer Token: Bearer dmmmsu-cookbook-token-2026
+Bearer Token: Bearer <YOUR_API_TOKEN>
 
 
 
@@ -518,17 +518,35 @@ INSERT INTO food_ingredients (food_id, ingredient_id) VALUES
 
 
 
+## 12. Configuration
+
+Create a `config.php` file in the project root and define the following:
+
+- DB_HOST
+- DB_NAME
+- DB_USER
+- DB_PASS
+- API_TOKEN
+
+Example:
+
+```php
+define('DB_HOST', 'localhost');
+define('DB_NAME', 'filipino_cookbook');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+define('API_TOKEN', 'your_api_token');
+```
 
 
-
-## 12. Optional: I added HTML, JPG, CS, & JS (Sorry...)
+## 13. Optional: I added HTML, JPG, CS, & JS (Sorry...)
 
 Just see the screenshots as well as the HTML URL of it.
 
 
 
 
-## 13. Developer
+## 14. Developer
 
 Name: Jun Mar F. Borja
 
