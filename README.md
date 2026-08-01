@@ -107,6 +107,8 @@ Authorization: Bearer dmmmsu-cookbook-token-2026
 
 ## Configuration
 
+(YOU CAN CHECK THE "public" FOLDER, YOU CAN FIND THE "config.example.php" THERE.)
+
 Create a `config.php` file in the project root and define the following:
 
 - DB_HOST
