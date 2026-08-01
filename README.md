@@ -102,7 +102,7 @@ http://localhost/filipino-cookbook-api/public/api/foods
 
 Required Header:
 
-Authorization: Bearer dmmmsu-cookbook-token-2026
+Authorization: Bearer <YOUR_API_TOKEN>
 
 
 ## Configuration
