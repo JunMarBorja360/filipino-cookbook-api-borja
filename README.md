@@ -39,7 +39,7 @@ The Filipino Cookbook API is a RESTful web service developed using PHP, Slim Fra
 ## API Endpoints
 
 ### Welcome Route
-http://localhost/filipino-cookbook-api/public/
+http://localhost/filipino-cookbook-api-borja/public/
 
 ### Foods
 - GET /api/foods
@@ -98,7 +98,7 @@ http://localhost/filipino-cookbook-api/public
 
 GET
 
-http://localhost/filipino-cookbook-api/public/api/foods
+http://localhost/filipino-cookbook-api-borja/public/api/foods
 
 Required Header:
 

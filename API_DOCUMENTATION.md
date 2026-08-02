@@ -71,7 +71,7 @@ Required Tables:
 
 ## 6. Base URL
 
-http://localhost/filipino-cookbook-api/public
+http://localhost/filipino-cookbook-api-borja/public
 
 
 
@@ -167,7 +167,7 @@ Adds a food-ingredient relationship.
 OTHER Endpoints.... 
 
 ### Welcome Route
-http://localhost/filipino-cookbook-api/public/
+http://localhost/filipino-cookbook-api-borja/public/
 
 ### Foods
 - GET /api/foods
@@ -543,7 +543,7 @@ define('API_TOKEN', 'your_api_token');
 
 ## 13. Optional: I added HTML, JPG, CS, & JS (Sorry...)
 
-Just see the screenshots as well as the HTML URL of it.
+Just see the screenshots as well as the HTML URL of it. But http://localhost/filipino-cookbook-api-borja/public/ is the main for using the endpoints in Thunder Client. Not those in screenshots.
 
 
 

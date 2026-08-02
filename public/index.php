@@ -8,7 +8,7 @@ use Slim\Factory\AppFactory;
 
 // Create Slim App
 $app = AppFactory::create();
-$app->setBasePath('/filipino-cookbook-api/public');
+$app->setBasePath('/filipino-cookbook-api-borja/public');
 
 // Enable JSON responses
 $app->addBodyParsingMiddleware();
