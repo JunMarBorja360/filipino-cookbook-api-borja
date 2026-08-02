@@ -22,6 +22,7 @@ const foodImages = {
     "Menudo": "images/menudo.jpg",
     "Afritada": "images/afritada.jpg",
     "Lechon Kawali": "images/lechon-kawali.jpg",
+    "Dinengdeng": "images/dinengdeng.jpg",
     "Halo-Halo": "images/halo-halo.jpg",
 
     // Default image
