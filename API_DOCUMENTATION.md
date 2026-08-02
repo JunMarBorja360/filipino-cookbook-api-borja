@@ -543,7 +543,7 @@ define('API_TOKEN', 'your_api_token');
 
 ## 13. Optional: I added HTML, JPG, CS, & JS (Sorry...)
 
-Just see the screenshots as well as the HTML URL of it. The HTML URL should be http://localhost/filipino-cookbook-api-borja/public/app
+Just see the screenshots as well as the HTML URL of it. After creating your own token bearer via config.php. You must change your const token at script.js to match yours. The HTML URL should be http://localhost/filipino-cookbook-api-borja/public/app
 
 
 ## 14. Screenshots of Endpoints
@@ -552,7 +552,7 @@ It should be http://localhost/filipino-cookbook-api-borja/public/ for using the 
 
 
 
-## 14. Developer
+## 15. Developer
 
 Name: Jun Mar F. Borja
 
