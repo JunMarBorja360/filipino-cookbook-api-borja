@@ -91,7 +91,7 @@ User Agent: Thunder Client (https://www.thunderclient.com)
 
 Base URL:
 
-http://localhost/filipino-cookbook-api/public
+http://localhost/filipino-cookbook-api-borja/public
 
 
 ## Sample Request
