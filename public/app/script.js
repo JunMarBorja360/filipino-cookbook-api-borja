@@ -1,5 +1,5 @@
 const apiUrl = "http://localhost/filipino-cookbook-api-borja/public/api/foods";
-const token = "dmmmsu-cookbook-token-2026";
+const token = 'YOUR_API_TOKEN';
 
 const recipesContainer = document.getElementById("foods");
 const searchInput = document.getElementById("search");
