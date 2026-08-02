@@ -1,4 +1,4 @@
-const apiUrl = "http://localhost/filipino-cookbook-api/public/api/foods";
+const apiUrl = "http://localhost/filipino-cookbook-api-borja/public/api/foods";
 const token = "dmmmsu-cookbook-token-2026";
 
 const recipesContainer = document.getElementById("foods");
